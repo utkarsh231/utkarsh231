@@ -7,4 +7,4 @@
 - 💞️ I’m looking to collaborate on AI/ML
 - 📫 How to reach me utkarsh.achiever123@gmail.com
 
-
+![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=utkarsh231&theme=great-gatsby&show_icons=true)
