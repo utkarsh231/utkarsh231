@@ -4,7 +4,7 @@
 
 I am a 3rd undergrad student with a major - CSE and a minor specialization in AI. I work on projects related to Artificial Intelligence and Machine Learning. looking for opportunities. 
 
-Skills: CNN / Neural Network /  Sentiment Analysis / Machine Learning
+Skills: Deep Learning (like U Net) / CNN / Neural Network /  Sentiment Analysis / Machine Learning
 
 - 🔭 I’m currently working on CNN  
 - 🌱 I’m currently learning CNN 
