@@ -20,8 +20,6 @@ Skills: Deep Learning (like U Net) / CNN / Neural Network /  Sentiment Analysis 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh231)](https://github.com/anuraghazra/github-readme-stats)
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=utkarsh231&theme=react-dark&hide_border=true&area=true)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=utkarsh231&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=utkarsh231)  
