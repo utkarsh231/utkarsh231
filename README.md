@@ -11,7 +11,7 @@ Skills: Deep Learning (like U Net) / CNN / Neural Network /  Sentiment Analysis 
 - 👯 I’m looking to collaborate on CNN / ML related projects 
 - 📫 How to reach me: utkarsh.achiever123@gmail.com 
 - 😄 Pronouns: He/Him 
-- 🔰 Latest Project: https://github.com/utkarsh231/Brain-Tumor-Detection-and-Classification
+- 🔰 Latest Project: https://github.com/utkarsh231/FRAS
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/utkarsh231)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/utkarsh-ps//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Utkarsh_ps)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://utkarsh-ps.me/Portfolio/)  
