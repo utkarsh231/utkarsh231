@@ -9,7 +9,7 @@ Skills: Deep Learning (like U Net) / CNN / Neural Network /  Sentiment Analysis 
 - 🔭 I’m currently working on CNN, Deep Learning, Computer Vision 
 - 🌱 I’m currently learning Natural Language Processing 
 - 👯 I’m looking to collaborate on CNN / ML related projects 
-- 📫 How to reach me: utkarsh.achiever123@gmail.com 
+- 📫 How to reach me: utkarsh.achiever123@gmail.com / utkarsh321321@gmail.com
 - 😄 Pronouns: He/Him 
 - 🔰 Latest Project: https://github.com/utkarsh231/FRAS
 
