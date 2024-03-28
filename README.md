@@ -6,10 +6,14 @@ I am currently a graduate student at New York University. I completed my undergr
 
 Skills: Deep Learning / High Performance Computing / Image Analysis / Computer Vision / Machine Learning 
 
-How to reach me:
+#### How to reach me:
+
 Email: ups2006@nyu.edu / utkarsh.achiever123@gmail.com
+
 Linkedin: https://www.linkedin.com/in/utkarsh-ps/
+
 Website: https://utkarsh-ps.me/
+
 Google Scholar: https://scholar.google.com/citations?hl=en&user=NdMTkAUAAAAJ
 
 
