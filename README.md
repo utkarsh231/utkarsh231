@@ -1,17 +1,10 @@
 ### Hi there 👋, my name is Utkarsh Prakash Srivasatva
-#### Artificial Intelligence Developer and Researcher
-![Artificial Intelligence Developer and Researcher](https://user-images.githubusercontent.com/57147530/137719897-ae83e891-65a3-4821-842d-f08316d4d026.gif)
+#### Artificial Intelligence Engineer and Researcher
 
-I am a Senior undergrad student with a major - CSE and a minor specialization in AI. I work on projects related to Artificial Intelligence and Machine Learning, mainly on computer vision projects.
+I am currently a graduate student at New York University. I completed my undergraduate with Btech (Hons) in Computer Science and Engineering (Hons: Artificial Intelligence).
 
-Skills: Deep Learning (like U Net) / CNN / Neural Network /  Sentiment Analysis / Machine Learning
 
-- 🔭 I’m currently working on CNN, Deep Learning, Computer Vision 
-- 🌱 I’m currently learning Natural Language Processing 
-- 👯 I’m looking to collaborate on CNN / ML related projects 
-- 📫 How to reach me: utkarsh.achiever123@gmail.com / utkarsh321321@gmail.com
-- 😄 Pronouns: He/Him 
-- 🔰 Latest Project: https://github.com/utkarsh231/FRAS
+Skills: Deep Learning / High Performance Computing / Image Analysis / Computer Vision / Machine Learning 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/utkarsh231)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/utkarsh-ps//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Utkarsh_ps)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://utkarsh-ps.me/Portfolio/)  
