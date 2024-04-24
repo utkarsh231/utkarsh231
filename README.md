@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Utkarsh Prakash Srivasatva
-#### Artificial Intelligence Engineer and Researcher
 
 I am currently a graduate student at New York University. I completed my undergraduate with Btech (Hons) in Computer Science and Engineering (Hons: Artificial Intelligence).
 
