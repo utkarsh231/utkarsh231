@@ -23,4 +23,4 @@ Google Scholar: https://scholar.google.com/citations?hl=en&user=NdMTkAUAAAAJ
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=utkarsh231)  
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
+![](https://api.visitorbadge.io/api/VisitorHit?user=utkarsh231&repo=github-visitors-badge&countColor=%237B1E7A)
