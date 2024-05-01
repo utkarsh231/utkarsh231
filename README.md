@@ -23,4 +23,3 @@ Google Scholar: https://scholar.google.com/citations?hl=en&user=NdMTkAUAAAAJ
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=utkarsh231)  
 
-![](https://komarev.com/ghpvc/?username=utkarsh231)
