@@ -11,8 +11,6 @@ Email: ups2006@nyu.edu / utkarsh.achiever123@gmail.com
 
 Linkedin: https://www.linkedin.com/in/utkarsh-ps/
 
-Website: https://utkarsh-ps.me/
-
 Google Scholar: https://scholar.google.com/citations?hl=en&user=NdMTkAUAAAAJ
 
 
