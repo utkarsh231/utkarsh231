@@ -3,7 +3,9 @@
 I am currently a graduate student at New York University. I completed my undergraduate with Btech (Hons) in Computer Science and Engineering (Hons: Artificial Intelligence).
 
 
-Skills: Deep Learning / High Performance Computing / Image Analysis / Computer Vision / Machine Learning 
+Skills: Deep Learning / High Performance Computing / Image Analysis / Computer Vision / Biomedical / Causal Inference / Double Machine Learning
+
+Currently: Research Assistant at New York University Langone Health.
 
 #### How to reach me:
 
