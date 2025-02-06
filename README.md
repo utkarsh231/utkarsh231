@@ -19,7 +19,7 @@ Google Scholar: https://scholar.google.com/citations?hl=en&user=NdMTkAUAAAAJ
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/utkarsh231)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/utkarsh-ps//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Utkarsh_ps)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh231)](https://github.com/anuraghazra/github-readme-stats)
 
-%![GitHub stats](https://github-readme-stats.vercel.app/api?username=utkarsh231&show_icons=true&count_private=true)  
+<>![GitHub stats](https://github-readme-stats.vercel.app/api?username=utkarsh231&show_icons=true&count_private=true)  
 
-%![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=utkarsh231)  
+<>![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=utkarsh231)  
 
