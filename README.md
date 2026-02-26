@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img alt="Views" src="https://visitor-badge.laobi.icu/badge?page_id=utkarsh231.utkarsh231&left_text=Views&left_color=0e75b6&right_color=0e75b6" />
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=utkarsh231&label=Profile%20views&color=0e75b6&style=flat" />
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/utkarsh231?label=Followers&style=flat&color=0e75b6&logo=github" />
   <img alt="Stars" src="https://img.shields.io/github/stars/utkarsh231?label=Stars&style=flat&color=0e75b6&logo=github" />
 </p>
