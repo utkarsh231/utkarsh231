@@ -28,7 +28,7 @@
 - 🎓 **Graduate student — New York University**  
 - 🎓 **Incoming (Oxford) DPhil student** *(Engineering Science / Biomedical Imaging — starting **Oct 2026**)*  
 
-**Interests:** deep learning, computer vision, biomedical imaging, representation learning, robust evaluation, influence functions / TMLE, and practical deployment.
+**Interests:** deep learning, core ML, computer vision, biomedical imaging, representation learning, robust evaluation, influence functions / TMLE, and practical deployment.
 
 ---
 
@@ -58,8 +58,6 @@
 - **SkinCheck**  
   Early prototype: skin cancer categorization from a single image.  
   Repo: https://github.com/utkarsh231/SkinCheck
-
-> Tip: pin your 6–8 best repos on GitHub for maximum signal.
 
 ---
 
