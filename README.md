@@ -15,7 +15,7 @@
 
 <p align="center">
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=utkarsh231&label=Profile%20views&color=0e75b6&style=flat" />
-  <img alt="GitHub followers" src="https://badgen.net/github/followers/utkarsh231" />
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/utkarsh231?color=green&logo=github">
   <img alt="Stars" src="https://img.shields.io/github/stars/utkarsh231?label=Stars&style=flat" />
 </p>
 
