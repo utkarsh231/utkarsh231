@@ -86,10 +86,10 @@
 
 ## Reach me
 
-- Email: **ups2006@nyu.edu** • **utkarsh.achiever123@gmail.com**
+- Email: **ups2006@nyu.edu** • **utkarshpsri@gmail.com**
 - LinkedIn: https://www.linkedin.com/in/utkarsh-ps/
 - Website: https://utkarsh231.github.io
 
 ---
 
-<sub>Last updated: Feb 2026</sub>
+<sub>Last updated: Mar 2026</sub>
