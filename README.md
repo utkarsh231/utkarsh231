@@ -74,17 +74,12 @@
 ## GitHub stats
 
 <p align="center">
-  <img
-    alt="GitHub stats"
-    src="https://github-readme-stats.vercel.app/api?username=utkarsh231&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight&cache_seconds=1800&v=1"
-  />
+  <img alt="Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=utkarsh231&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img
-    alt="Top languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh231&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=1800&v=1"
-  />
+  <img alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=utkarsh231&theme=github_dark" />
+  <img alt="Top languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=utkarsh231&theme=github_dark" />
 </p>
 
 ---
